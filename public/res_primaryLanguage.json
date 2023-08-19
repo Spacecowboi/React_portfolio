@@ -18,7 +18,7 @@
           "images/portfolio/animal-shelter/eclipse.png",
           "images/portfolio/animal-shelter/horse.png"
         ],
-        "url": "",
+        "url": "https://team-bangbang.github.io/Project-Bang/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -41,7 +41,7 @@
         "images": [
           "images/portfolio/photography/ducks.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/Spacecowboi/odd-duck",
         "technologies": [
           {
             "class": "devicon-react-original",
